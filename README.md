@@ -1,1 +1,1 @@
-Thermopro 970 Home Assistant Integration.
+Thermopro 920 Home Assistant Integration.
